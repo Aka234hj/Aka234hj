@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://fb.com/nabanilpanda" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/698/original/facebook-logo-facebook-icon-transparent-free-png.png" alt="nabanilpanda" height="40" width="40" /></a>
 <a href="https://instagram.com/nabanilpanada" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" alt="nabanilpanada" height="40" width="40" /></a>
+<a href="https://instagram.com/nabanilpanada" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/purple-gradiend-social-media-logo_197792-1883.jpg" alt="nabanilpanada" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
